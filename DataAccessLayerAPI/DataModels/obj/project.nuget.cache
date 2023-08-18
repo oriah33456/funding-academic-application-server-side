@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sd7l32N8sBESBZrSeJgSjHhyojeNkKCyd8VAx3FK4Cglrq+QzdXmh3e6eO77OGHgm2DB2Pufrw97FlN3WuDoUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oriah\\OneDrive\\שולחן העבודה\\פרויקטים\\קווליטסט יודמי\\final project\\final project assignment\\DataAccessLayerAPI\\DataModels\\DataModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oriah\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\oriah\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

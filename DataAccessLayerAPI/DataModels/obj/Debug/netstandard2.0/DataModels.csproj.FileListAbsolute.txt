@@ -1,0 +1,18 @@
+C:\Users\itzukerman\שעיורים\oriya\DataAccessLayerAPI\DataModels\bin\Debug\netstandard2.0\DataModels.deps.json
+C:\Users\itzukerman\שעיורים\oriya\DataAccessLayerAPI\DataModels\bin\Debug\netstandard2.0\DataModels.dll
+C:\Users\itzukerman\שעיורים\oriya\DataAccessLayerAPI\DataModels\bin\Debug\netstandard2.0\DataModels.pdb
+C:\Users\itzukerman\שעיורים\oriya\DataAccessLayerAPI\DataModels\obj\Debug\netstandard2.0\DataModels.AssemblyInfoInputs.cache
+C:\Users\itzukerman\שעיורים\oriya\DataAccessLayerAPI\DataModels\obj\Debug\netstandard2.0\DataModels.AssemblyInfo.cs
+C:\Users\itzukerman\שעיורים\oriya\DataAccessLayerAPI\DataModels\obj\Debug\netstandard2.0\DataModels.csproj.CoreCompileInputs.cache
+C:\Users\itzukerman\שעיורים\oriya\DataAccessLayerAPI\DataModels\obj\Debug\netstandard2.0\DataModels.dll
+C:\Users\itzukerman\שעיורים\oriya\DataAccessLayerAPI\DataModels\obj\Debug\netstandard2.0\DataModels.pdb
+C:\Users\itzukerman\שעיורים\oriya\DataAccessLayerAPI\DataModels\obj\Debug\netstandard2.0\DataModels.csprojAssemblyReference.cache
+C:\Users\oriah\OneDrive\שולחן העבודה\קווליטסט יודמי\final project\final project assignment\DataAccessLayerAPI\DataModels\bin\Debug\netstandard2.0\DataModels.deps.json
+C:\Users\oriah\OneDrive\שולחן העבודה\קווליטסט יודמי\final project\final project assignment\DataAccessLayerAPI\DataModels\bin\Debug\netstandard2.0\DataModels.dll
+C:\Users\oriah\OneDrive\שולחן העבודה\קווליטסט יודמי\final project\final project assignment\DataAccessLayerAPI\DataModels\bin\Debug\netstandard2.0\DataModels.pdb
+C:\Users\oriah\OneDrive\שולחן העבודה\קווליטסט יודמי\final project\final project assignment\DataAccessLayerAPI\DataModels\obj\Debug\netstandard2.0\DataModels.csprojAssemblyReference.cache
+C:\Users\oriah\OneDrive\שולחן העבודה\קווליטסט יודמי\final project\final project assignment\DataAccessLayerAPI\DataModels\obj\Debug\netstandard2.0\DataModels.AssemblyInfoInputs.cache
+C:\Users\oriah\OneDrive\שולחן העבודה\קווליטסט יודמי\final project\final project assignment\DataAccessLayerAPI\DataModels\obj\Debug\netstandard2.0\DataModels.AssemblyInfo.cs
+C:\Users\oriah\OneDrive\שולחן העבודה\קווליטסט יודמי\final project\final project assignment\DataAccessLayerAPI\DataModels\obj\Debug\netstandard2.0\DataModels.csproj.CoreCompileInputs.cache
+C:\Users\oriah\OneDrive\שולחן העבודה\קווליטסט יודמי\final project\final project assignment\DataAccessLayerAPI\DataModels\obj\Debug\netstandard2.0\DataModels.dll
+C:\Users\oriah\OneDrive\שולחן העבודה\קווליטסט יודמי\final project\final project assignment\DataAccessLayerAPI\DataModels\obj\Debug\netstandard2.0\DataModels.pdb
